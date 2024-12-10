@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
     int input;
-    int correct_sequence[4] = {76, 34, 61, 23};
+    int correct_sequence[4] = {11, 11, 11, 1};
     int entered_sequence[4];
     bool correct = false;
 
