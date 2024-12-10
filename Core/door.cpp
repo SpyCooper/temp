@@ -16,7 +16,7 @@ int main() {
         }
 
         if (correct) {
-            cout << "\n\nThere is nothing in the behind the door..." << endl;
+            cout << "\n\nThere is a small flag in the behind the door..." << endl;
             cout << "Congratulations on finishing the CTF!\n\n" << endl;
         } else {
             cout << "The door does not budge." << endl;

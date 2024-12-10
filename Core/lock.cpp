@@ -26,7 +26,8 @@ int main() {
         if (correct) {
             cout << "\n\nYou've opened the lock with the key. Congratulations!" << endl;
             cout << "The final prompt is:" << endl;
-            cout << "The a lock and key to be hold somethine. Open the door and you'll see...\n\n" << endl;
+            cout << "A lock and key need to be hold something." << endl;
+            cout << "Open the door and you'll see what you need...\n\n" << endl;
         } else {
             cout << "The lock does not open." << endl;
         }
